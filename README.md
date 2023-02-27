@@ -2,6 +2,7 @@
 El dia de hoy resolveremos el reto 4 propuesto en clase el cual consiste en 2 cosas las cuales son :
 
 1 Plantear el algoritmo para obtener los números primos hasta n, usando pseudocódigo y diagramas de flujo.
+
 2 Revise el procedimiento matemático para hallar raices cuadradas (son divisiones y restas), plantee el algoritmo en pseudocódigo y en diagrama de flujo.
 
 Como soy un primiparo en la programacion lo resolvere de la forma mas facil que pueda yo entender y realizar:
